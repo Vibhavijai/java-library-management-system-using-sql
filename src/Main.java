@@ -84,7 +84,7 @@ public class Main {
                 tf4.setBounds(190,230,100,20);
                 f2.add(tf4);
 
-                l5=new JLabel("PAGES");
+                l5=new JLabel("PAGESs");
                 l5.setBounds(50,260,120,50);
                 f2.add(l5);
 
